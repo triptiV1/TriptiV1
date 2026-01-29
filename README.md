@@ -1,6 +1,6 @@
 Hi, I'm Tripti Vishwakarma! 
 
-I am an AI Engineer and Data Scientist passionate about leveraging machine learning to solve real-world problems. With a background in strategic recruitment and a recent Masters in AI, I bring a unique blend of business acumen and technical expertise to the field.
+I am an AI Engineer and Data Scientist passionate about leveraging machine learning to solve real-world problems. With a background in strategic product management and a recent Masters in AI, I bring a unique blend of business acumen and technical expertise to the field.
 Currently, I am actively seeking roles as a Data Scientist or ML Engineer.
 
 Core Expertise:
